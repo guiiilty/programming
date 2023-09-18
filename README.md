@@ -37,7 +37,7 @@ int main()
     printf("Hello, world!\n");
     return 0;
 }
-
+```
 4. Скомпилировал и запустил её 
 
 ![Скриншот](1.png "Скриншот")
@@ -59,38 +59,3 @@ int main()
 ![Скриншот](5.png "Скриншот")
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-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
